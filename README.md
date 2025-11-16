@@ -1,3 +1,3 @@
 # Clg
-Only and All College Work
+Only and All College Work.
 Author - Soumya Tiwari
